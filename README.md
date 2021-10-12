@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karan Arora</h1>
-<h3 align="left">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h3>
+<h3 align="center">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h3>
 
 --- 
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
 <a href="https:massivefile.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/website-255-610491.png" alt="@karanarora" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan36k" height="30" width="40" /></a>
 <a href="https://instagram.com/flashunicorn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a>
