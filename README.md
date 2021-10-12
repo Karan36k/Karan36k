@@ -23,9 +23,9 @@ Currently working as a data scientist at a medical tech startup. Did education i
 
 - 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation**
 
-- 👨‍💻 All of my projects are deployed at [https://massivefile.com/karan](https://massivefile.com/karan)
+- 👨‍💻 My projects are deployed at [https://massivefile.com/karan](https://massivefile.com/karan)
 
-- 📝 I regularly write articles on [https://massivefile.com/](https://massivefile.com/)
+- 📝 I regularly write on [https://massivefile.com/](https://massivefile.com/)
 
 - 💬 Ask me anything about **Machine Learning, Databases(SQL|NO-SQL|MongoDB), Python Development, Webframeworks- Django|Flask, Colud - AWS|GCP|Heroku Deployment**
 
