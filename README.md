@@ -16,18 +16,18 @@ Currently working as a data scientist at a medical tech startup in Chennai. Did 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan36k&label=Profile%20views&color=0e75b6&style=flat" alt="karan39k" /> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/HszdsKfs/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 
-- 🔭 I’m currently working on - **Customising and Training a Bidirectional Transformer to interpret a Medical Report by itself**
+- 🔭 I’m currently working on **Customising and Training a Bidirectional Transformer to interpret a Medical Report by itself**
 
-- 🌱 I’m currently learning **Practical Approach to efficient Machine Learning and Deep Learning Algoithms **
+- 🌱 I’m currently learning **Practical Approach to efficient Machine Learning and Deep Learning Algoithms**
 
 - 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation**
 
 - 👨‍💻 All of my projects are deployed at [https://massivefile.com/karan](https://massivefile.com/karan)
 
-- 📝 I regularly write articles on [https://massivefilec.com/](https://massivefile.com/)
+- 📝 I regularly write articles on [https://massivefile.com/](https://massivefile.com/)
 
 - 💬 Ask me anything about **Machine Learning, Web development, Python Development, Databases(SQL|NO-SQL), Django, Flask, AWS|GCP|Heroku Deployment**
 
@@ -39,7 +39,7 @@ Currently working as a data scientist at a medical tech startup in Chennai. Did 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Certificates Earned by Me:</h3>
 
 ---
 
