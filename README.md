@@ -31,7 +31,7 @@ Currently working as a data scientist at a medical tech startup. Did education i
 
 - 📫 How to reach me **karan39k@gmail.com**
 
-- ⚡ Fun fact **I collect knives >>>>>>**
+- ⚡ Fun fact **I love to collect antique knives >>>>>>**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
