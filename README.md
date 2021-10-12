@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://massivefile.com" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47RS9Jmmyf5N8TcX4wTogjDnDqyU_AYzO7w&usqp=CAU" alt="@karanarora" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karanaro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan36k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karanaro "target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan36k" height="30" width="40" /></a>
 <a href="https://instagram.com/flashunicorn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a>
 </p>
 
