@@ -3,10 +3,10 @@
 
 --- 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https:massivefile.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/website-255-610491.png" alt="@karanarora" height="30" width="40" /></a>
+<a href="https:massivefile.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47RS9Jmmyf5N8TcX4wTogjDnDqyU_AYzO7w&usqp=CAU" alt="@karanarora" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan36k" height="30" width="40" /></a>
 <a href="https://instagram.com/flashunicorn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a>
 </p>
