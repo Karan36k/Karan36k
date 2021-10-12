@@ -11,7 +11,7 @@
 <a href="https://instagram.com/flashunicorn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a>
 </p>
 
-Currently working as a data scientist at a medical tech startup in Chennai. Did education in the field of Computer Science and Engineering. Now, pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with a great interest in Artificial Intelligence, Python and Web Development. I am a wonderful chef too. I'm well versed with Databases, Algorithm Design and Deployment. I'm also very passionate about learning new things and making new projects.
+Currently working as a data scientist at a medical tech startup in Chennai. Did education in the field of Computer Science and Engineering. Now, pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with a great interest in Artificial Intelligence, Python and Web Development. I'm well versed with Databases, Algorithm Design and Deployment. I'm also very passionate about learning new things and making new projects. When free, I love to cook food, play football or chess.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan36k&label=Profile%20views&color=0e75b6&style=flat" alt="karan39k" /> </p> -->
 
