@@ -13,9 +13,9 @@
 
 Currently working as a data scientist at a medical tech startup. Did education in the field of Computer Science and Engineering. Now, pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with a great interest in Artificial Intelligence, Python and Web Development. I'm well versed with Databases, Algorithm Design and Deployment. I'm also very passionate about learning new things and making new projects. When free, I love to cook food, play football or chess.
 
-<!-- <p align="left"> <img src="https://thecupofz.files.wordpress.com/2020/04/00f58f7ca5eb15f62949e70d3fae3c39_the-most-artistic-and-creative-instagram-logo-designs-edigital-_300-300.gif" width="20px" alt="karan39k" /> </p> -->
+<!-- <p align="left"> <img src="https://thecupofz.files.wordpress.com/2020/04/00f58f7ca5eb15f62949e70d3fae3c39_the-most-artistic-and-creative-instagram-logo-designs-edigital-_300-300.gif" width="20" alt="karan39k" /> </p> -->
 
-<p align="left"> <a href="https://instagram.com/flashunicorn" target="_blank"><img src="https://static.dezeen.com/uploads/2016/05/instagram-logo-redesign-design-graphics-digital-media-app_dezeen_sq.gif" alt="karanarora" /></a> </p>
+<p align="left"> <a href="https://instagram.com/flashunicorn" target="_blank"><img src="https://thecupofz.files.wordpress.com/2020/04/00f58f7ca5eb15f62949e70d3fae3c39_the-most-artistic-and-creative-instagram-logo-designs-edigital-_300-300.gif" width="20" alt="karanarora" /></a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
