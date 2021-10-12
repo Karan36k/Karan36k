@@ -11,7 +11,7 @@
 <a href="https://instagram.com/flashunicorn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a>
 </p>
 
-Currently working as a data scientist at a medical tech startup. Did education in the field of Computer Science and Engineering & currently pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with a great interest in Artificial Intelligence, Python and Web Development. I'm well versed with Data Processing, Databases, Algorithm Design and Model Deployment. I'm also very passionate about presenting myself on stage, learning new things and making new collaborations. When free, I love to Cook Food 🍛, Play Football⚽ or Chess♛ or Play with Dogs🐕
+Currently working as a Data Scientist at a medical tech startup. Did education in the field of Computer Science and Engineering & currently pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with an interest in Artificial Intelligence, Python and Web Development. I'm well versed with Data Processing, Databases, Algorithm Design and Model Deployment. I'm also very passionate about presenting myself on stage, learning new things and making new collaborations. When free, I love to Cook Food 🍛, Play Football⚽ or Chess♛ or Play with Dogs🐕
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
