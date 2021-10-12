@@ -17,7 +17,7 @@ Currently working as a data scientist at a medical tech startup. Did education i
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080">
 
-- 🔭 I’m currently working on **Customising and Training a Bidirectional Transformer to interpret a Medical Report by itself**
+- 🔭 I’m currently working on **Customising and Training a Bidirectional Transformer to auto-interpret a Medical Report**
 
 - 🌱 I’m currently learning **Practical Approach to efficient Machine Learning and Deep Learning Algoithms**
 
@@ -27,7 +27,7 @@ Currently working as a data scientist at a medical tech startup. Did education i
 
 - 📝 I regularly write articles on [https://massivefile.com/](https://massivefile.com/)
 
-- 💬 Ask me anything about **Machine Learning, Web development, Python Development, Databases(SQL|NO-SQL), Django, Flask, AWS|GCP|Heroku Deployment**
+- 💬 Ask me anything about **Machine Learning, Databases(SQL|NO-SQL|MongoDB), Python Development, Webframeworks- Django|Flask, Colud - AWS|GCP|Heroku Deployment**
 
 - 📫 How to reach me **karan39k@gmail.com**
 
@@ -41,7 +41,7 @@ Currently working as a data scientist at a medical tech startup. Did education i
 
 
 <div align="center">
-
+  <h2>Github Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&locale=en" alt="karan39k" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
