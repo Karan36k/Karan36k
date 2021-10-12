@@ -19,11 +19,11 @@ Currently working as a data scientist at a medical tech startup in Chennai. Did 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 
-- 🔭 I’m currently working on - **Movie Review Analysis and InsightRX project at BFHL**
+- 🔭 I’m currently working on - **Customising and Training a Bidirectional Transformer to interpret a Medical Report by itself**
 
 - 🌱 I’m currently learning **Practical Approach to efficient Machine Learning and Deep Learning Algoithms **
 
-- 👯 I’m looking to collaborate on **projects based on Reinforcement Learning or Model Optimisation**
+- 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation**
 
 - 👨‍💻 All of my projects are deployed at [https://massivefile.com/karan](https://massivefile.com/karan)
 
