@@ -7,13 +7,16 @@
 
 <p align="left">
 <a href="https:massivefile.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/website-255-610491.png" alt="@karanarora" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karanaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-gupta05" height="30" width="40" /></a>
-<a href="https://instagram.com/flashunicorn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan39k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karanaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan36k" height="30" width="40" /></a>
+<a href="https://instagram.com/flashunicorn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a>
 </p>
 
 Currently working as a data scientist at a medical tech startup in Chennai. Did education in the field of Computer Science and Engineering. Now, pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with a great interest in Artificial Intelligence, Python and Web Development. I am a wonderful chef too. I'm well versed with Databases, Algorithm Design and Deployment. I'm also very passionate about learning new things and making new projects.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan36k&label=Profile%20views&color=0e75b6&style=flat" alt="karan39k" /> </p> -->
+
+<p align="left"> <a href="https://instagram.com/flashunicorn" target="blank"><img src="https://img.shields.io/instagram/follow/flashunicorn?logo=insta&style=for-the-badge" alt="karanarora" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080">
