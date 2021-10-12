@@ -15,7 +15,7 @@ Currently working as a data scientist at a medical tech startup. Did education i
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan36k&label=Profile%20views&color=0e75b6&style=flat" alt="karan39k" /> </p> -->
 
-<p align="left"> <a href="https://instagram.com/flashunicorn" target="_blank"><img src="https://img.shields.io/twitter/follow/flashunicorn?logo=twitter&style=for-the-badge" alt="karanarora" /></a> </p>
+<p align="left"> <a href="https://instagram.com/flashunicorn" target="_blank"><img src="https://static.dezeen.com/uploads/2016/05/instagram-logo-redesign-design-graphics-digital-media-app_dezeen_sq.gif" alt="karanarora" /></a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
