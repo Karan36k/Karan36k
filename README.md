@@ -27,7 +27,7 @@ Currently working as a data scientist at a medical tech startup. Did education i
 
 - 📝 I regularly write on [https://massivefile.com/](https://massivefile.com/)
 
-- 💬 Ask me anything about **Machine Learning, Databases(SQL|NO-SQL|MongoDB), Python Development, Webframeworks- Django|Flask, Colud - AWS|GCP|Heroku Deployment**
+- 💬 Ask me anything about <small>**Machine Learning, Databases(SQL|NO-SQL|MongoDB), Python Development, Webframeworks- Django|Flask, Colud - AWS|GCP|Heroku Deployment**</small>
 
 - 📫 How to reach me **karan39k@gmail.com**
 
