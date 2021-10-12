@@ -3,7 +3,7 @@
 
 --- 
 
-<h3 align="center">Connect with me outside linkedin:</h3>
+<h3 align="center">Connect with me outside Github:</h3>
 
 <p align="center">
 <a href="https://massivefile.com" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47RS9Jmmyf5N8TcX4wTogjDnDqyU_AYzO7w&usqp=CAU" alt="@karanarora" height="30" width="40" /></a>
