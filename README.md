@@ -13,10 +13,6 @@
 
 Currently working as a data scientist at a medical tech startup. Did education in the field of Computer Science and Engineering & currently pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with a great interest in Artificial Intelligence, Python and Web Development. I'm well versed with Data Processing, Databases, Algorithm Design and Model Deployment. I'm also very passionate about presenting myself on stage, learning new things and making new collaborations. When free, I love to cook food, play football or chess.
 
-<!-- <p align="left"> <img src="https://thecupofz.files.wordpress.com/2020/04/00f58f7ca5eb15f62949e70d3fae3c39_the-most-artistic-and-creative-instagram-logo-designs-edigital-_300-300.gif" width="20" alt="karan39k" /> </p> -->
-
-<p align="left"> <a href="https://instagram.com/flashunicorn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="20" alt="karanarora" /></a> </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080">
