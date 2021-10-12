@@ -47,6 +47,3 @@ Currently working as a data scientist at a medical tech startup. Did education i
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan36k&" alt="karan39k" /></p></div>
-
-<h3 align="left">Technical Certificates Earned by Me:</h3>
-
