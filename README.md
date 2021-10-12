@@ -16,7 +16,7 @@ Currently working as a data scientist at a medical tech startup in Chennai. Did 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan36k&label=Profile%20views&color=0e75b6&style=flat" alt="karan39k" /> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/JcqhYrS/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080">
 
 
 - 🔭 I’m currently working on **Customising and Training a Bidirectional Transformer to interpret a Medical Report by itself**
