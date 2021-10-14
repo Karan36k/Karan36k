@@ -42,11 +42,11 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 
 <div align="center">
   <h2>Github Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&locale=en" alt="karan39k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=tokyonight&show_icons=true&locale=en" alt="karan39k" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan36k&" alt="karan39k" /></p></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan36k&show_icons=true&theme=tokyonight&" alt="karan39k" /></p></div>
 
 <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
