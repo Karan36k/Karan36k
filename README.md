@@ -29,7 +29,7 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 
 - 💬 Ask me anything about <small>**Machine Learning, Databases(SQL|NO-SQL|MongoDB), Python Development, Webframeworks- Django|Flask, Colud - AWS|GCP|Heroku Deployment**</small>
 
-- 📫 How to reach me **karan39k@gmail.com**
+- 📫 You can reach me via **karan39k@gmail.com**
 
 - ⚡ Fun fact **I love to collect antique knives >>>>>>**
 - 😀 I love to speak at technical conferences. I'm just an invite away - karan39k@gmail.com 
@@ -47,3 +47,8 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan36k&" alt="karan39k" /></p></div>
+
+<details> 
+  <summary> 🏆 <b>My trophy stats so far</b>: </summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
+</details>
