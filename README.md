@@ -32,13 +32,13 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 - 📫 How to reach me **karan39k@gmail.com**
 
 - ⚡ Fun fact **I love to collect antique knives >>>>>>**
+- 😀 I also speak at colleges and technical conferences. I'm just an invite away - karan36k@gmail.com
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
 
 <div align="center">
   <h2>Github Stats</h2>
