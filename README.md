@@ -39,16 +39,12 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+<br><br>
 <div align="center">
   <h2>Github Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=tokyonight&show_icons=true&locale=en" alt="karan39k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=tokyonight&line_height=25" width = 550&show_icons=true&locale=en" alt="karan39k" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&line_height=20" width = 300&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="karan39k" /></p></div>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" width = 550" alt="karan39k" /></p></div>
 
-<details> 
-  <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
-</details>
