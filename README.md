@@ -32,12 +32,9 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<br>
+
 <div align="center">
-  <h2>Github Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=neon&line_height=25" width = 600&show_icons=true&locale=en" alt="karan39k" /></p>
-  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&line_height=80" width = 400&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
-
-
-<p><img src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" width = 600" alt="karan39k" /></p></div>
+  <h2>Github Stats</h2></div>
+<img src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=neon&line_height=25" width = 400&show_icons=true&locale=en" alt="karan39k" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&line_height=80" width = 400&show_icons=true&locale=en&layout=compact" alt="karan39k" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" width = 400" alt="karan39k" />
