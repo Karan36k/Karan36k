@@ -10,9 +10,10 @@
 <a href="https://instagram.com/flashunicorn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a>
 </p>
 Currently working as a Data Scientist at a medical tech startup. Did education in the field of Computer Science and Engineering & currently pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with an interest in Artificial Intelligence, Python and Web Development. I'm well versed with Data Processing, Databases, Algorithm Design and Model Deployment. I'm also very passionate about presenting myself on stage, learning new things and making new collaborations. In my free time, I love to cook food 🍛, play football⚽ or chess♛ or play with dogs🐕
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080">
+
 - 🔭 I’m currently working on **Customising and Training a Bidirectional Transformer to auto-interpret a Medical Report**
 - 🌱 I’m currently learning **Practical Approach to efficient Machine Learning and Deep Learning Algoithms**
 - 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation**
