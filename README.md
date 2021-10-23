@@ -18,19 +18,12 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080">
 
 - 🔭 I’m currently working on **Customising and Training a Bidirectional Transformer to auto-interpret a Medical Report**
-
 - 🌱 I’m currently learning **Practical Approach to efficient Machine Learning and Deep Learning Algoithms**
-
 - 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation**
-
 - 👨‍💻 My projects are deployed at [https://massivefile.com/karan](https://massivefile.com/karan)
-
 - 📝 I regularly write on [https://massivefile.com/](https://massivefile.com/)
-
 - 💬 Ask me anything about <small>**Machine Learning, Databases(SQL|NO-SQL|MongoDB), Python Development, Webframeworks- Django|Flask, Colud - AWS|GCP|Heroku Deployment**</small>
-
 - 📫 You can reach me via **karan39k@gmail.com**
-
 - ⚡ Fun fact **I love to collect antique knives >>>>>>**
 - 😀 I love to speak at technical conferences. I'm just an invite away - karan39k@gmail.com 
 
@@ -39,12 +32,12 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<br><br>
+<br>
 <div align="center">
   <h2>Github Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=neon&line_height=25" width = 600&show_icons=true&locale=en" alt="karan39k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=neon&line_height=25" width = 300&show_icons=true&locale=en" alt="karan39k" /></p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan36k&show_icons=true&line_height=80" width = 300&show_icons=true&locale=en&layout=compact" alt="karan39k" /></p>
 
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" width = 600" alt="karan39k" /></p></div>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" width = 300" alt="karan39k" /></p></div>
