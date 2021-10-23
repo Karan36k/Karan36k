@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Karan Arora</h2>
-<h4 align="center">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h4>
+<h1 align="center">Hi 👋, I'm Karan Arora</h1>
+<h3 align="center">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h3>
 
 ---
 
-<h4 align="center">Connect with me outside Github:</h4>
+<h3 align="center">Connect with me outside Github:</h3>
 <p align="center">
 <a href="https://massivefile.com" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47RS9Jmmyf5N8TcX4wTogjDnDqyU_AYzO7w&usqp=CAU" alt="@karanarora" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanaro "target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan36k" height="30" width="40" /></a>
