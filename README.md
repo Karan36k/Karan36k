@@ -11,7 +11,6 @@
 Currently working as a Data Scientist at a medical tech startup. Did education in the field of Computer Science and Engineering & currently pirsuing a Diploma in Applied Statistics. I'm a tech enthusiast with an interest in Artificial Intelligence, Python and Web Development. I'm well versed with Data Processing, Databases, Algorithm Design and Model Deployment. I'm also very passionate about presenting myself on stage, learning new things and making new collaborations. In my free time, I love to cook food 🍛, play football⚽ or chess♛ or play with dogs🐕 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p> <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080"> 
 
 - 🔭 I’m currently working on **Customising & Training a Bidirectional Transformer to auto-interpret Medical Report** 
-- 🌱 I’m currently learning **Practical Approach to efficient Machine Learning and Deep Learning Algoithms** 
 - 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation** 
 - 📝 I regularly write on [https://massivefile.com/](https://massivefile.com/) 
 - 💬 Ask me anything about <small>**Machine Learning, Databases(SQL|NO-SQL|MongoDB), Python Dev, Webframe- Django|Flask, Colud - AWS|GCP|Heroku**
@@ -24,7 +23,7 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
   <div align="center">
   
   <h2>Github Stats</h2> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" height="160px" alt="karan39k"/> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" height="123px" alt="karan39k"/> 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=karan36k&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
