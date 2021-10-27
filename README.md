@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&vCenter=true&lines=Hello+World+👋,+I+am+Karan+)](https://github.com/Unordestino/Unordestino/)</h3>
-
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?&vCenter=true&lines=Hello+World+👋,+I+am+Karan+)](https://github.com/Unordestino/Unordestino/)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&vCenter=true&lines=Hello+World+👋,+I+am+Karan+)](https://github.com/Unordestino/Unordestino/)</h4>
 
 <h4 align="center">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h4> 
 
