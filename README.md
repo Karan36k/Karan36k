@@ -11,8 +11,8 @@
 
  <h6>Currently working as a Data Scientist at a medical tech startup. I'm a tech enthusiast with an interest in AI, Python and Web-Dev</h6>
   
-<a href="https://massivefile.com/karan" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p> </a>
- <img align="right" alt="Coding" width="290" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p> 
+ <a href="https://massivefile.com/karan" target="_blank"><img align="right" alt="Coding" width="290" src="https://lh3.googleusercontent.com/mgIKssWpDhUcif6UwzLqwFrQ2frzYdKrp6utfYLoY8c8nGL68euHOzSDJ5JDIZ5qKEYgC8ug7Vy9kLNKEVOYjdRRZJ3T3Mq0laT8AUwB5w1UG1Jf7bIFkPg_8yY-1qXfMSas0bna1w=w1920-h1080"> </a>
 
 - 🔭 I’m currently working on **Customising & Training a Bidirectional Transformer to auto-interpret Medical Report** 
 - 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation** 
