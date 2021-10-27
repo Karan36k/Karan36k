@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&vCenter=true&lines=Hello+World+👋,+I+am+Karan+)](https://github.com/Unordestino/Unordestino/)</h4>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23072700&size=15&center=true&lines=Hello+World+%F0%9F%91%8B%2C+I+am+Karan)](https://git.io/typing-svg)
 
 <h4 align="center">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h4> 
 
@@ -29,8 +29,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&langs_count=7&theme=dark"/>
   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=karan36k&theme=xcode"/></a>
- 
-   <img height="295em" src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan36k&theme=solarized_dark" alt="karan39k"/> 
 
    
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
