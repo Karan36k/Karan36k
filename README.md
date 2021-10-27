@@ -22,7 +22,6 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
   
   <div align="center">
   
-  <h2>Github Stats</h2> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" height="123px" alt="karan39k"/> 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
