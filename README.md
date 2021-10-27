@@ -30,9 +30,9 @@
 
       <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan36k&theme=solarized_dark" height="160px" alt="karan39k"/> 
       
-    
+            ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+
   </div>
 
 
-        ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
