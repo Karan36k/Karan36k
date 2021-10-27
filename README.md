@@ -25,13 +25,12 @@
  ---
   
 <div align="center">
-  <a href="https://github.com/WilliamLoey">
+  <a href="https://github.com/karan36k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&langs_count=7&theme=dark"/>
   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=karan36k&theme=xcode"/></a>
    
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" alt="karan39k"/>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" height="160px" alt="karan39k"/> 
+ 
   <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan36k&theme=solarized_dark" height="160px" alt="karan39k"/> 
   
   </div>
