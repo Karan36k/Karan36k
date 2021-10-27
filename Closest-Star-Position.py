@@ -1,4 +1,4 @@
-# PYTHON CODE TO CALCULATE THE SUN's POSITION
+# PYTHON CODE TO CALCULATE THE Closest Star's POSITION
 # TO RUN THIS CODE, RUN - "GIT Clone https://github.com/Karan36k/Karan36k.git"
 # THEN NAVIGATE TO THE FOLDER AND RUN "PYTHON Closest-Star-Position.py"
 
