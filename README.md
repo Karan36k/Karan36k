@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23072700&size=15&center=true&lines=Hello+World+%F0%9F%91%8B%2C+I+am+Karan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230A3600&size=15&center=true&width=550&height=75&lines=Hello+World+%F0%9F%91%8B%2C+I+am+Karan)](https://git.io/typing-svg)
 
 <h4 align="center">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h4> 
 
