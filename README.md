@@ -30,11 +30,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&langs_count=7&theme=dark"/>
   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=karan36k&theme=xcode"/></a>
    
- 
-  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan36k&theme=solarized_dark" height="160px" alt="karan39k"/> 
+  ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+
+  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan36k&theme=solarized_dark" alt="karan39k"/> 
   
   </div>
  
- ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
  
 ---
