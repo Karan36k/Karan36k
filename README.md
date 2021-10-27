@@ -20,6 +20,7 @@
 - ⚡ Connect me via - karan39k@gmail.com** 
   </small>
 <!-- ### Blogs posts -->
+  
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" alt="karan39k"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
