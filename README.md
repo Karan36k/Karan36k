@@ -17,13 +17,10 @@ Currently working as a Data Scientist at a medical tech startup. Did education i
 - ⚡ Fun fact **I love to collect antique knives >>>>>>** 
   </small>
 <!-- ### Blogs posts -->
-  
-  --- 
-  
+    
   <div align="center">
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=karan36k&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&line_height=25" height="123px" alt="karan39k"/> 
- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=karan36k&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan36k&theme=solarized_dark" height="160px" alt="karan39k"/> </div>
