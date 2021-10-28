@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230A3600&size=15&center=true&width=250&height=23&lines=Hello+World+%F0%9F%91%8B%2C+I+am+Karan)](https://git.io/typing-svg)
+<a href="https://github.com/karan36k">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230A3600&size=15&center=true&width=250&height=23&lines=Hello+World+%F0%9F%91%8B%2C+I+am+Karan)](https://git.io/typing-svg)</a>
 
-<h4 align="center">Data Scientist || 3 Years work-ex || CS undergrad || Coder || Developer || Designer</h4> 
+<h4 align="center">CS undergrad || 3 Years work-ex || Data Scientist || Coder || Developer || Designer</h4> 
 
 --- 
 
