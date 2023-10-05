@@ -4,9 +4,9 @@
 
 <h4 align="center">Connect with me outside Github:</h4>
 <small>
-<p align="center"> <a href="https://massivefile.com" target="_blank">
+<!--<p align="center"> <a href="https://massivefile.com" target="_blank">
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47RS9Jmmyf5N8TcX4wTogjDnDqyU_AYzO7w&usqp=CAU" alt="@karanarora" height="30" width="40" /></a> <a href="https://linkedin.com/in/karanaro "target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan36k" height="30" width="40" /></a> <a href="https://instagram.com/flashunicorn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan36k" height="30" width="40" /></a> </p> 
-
+-->
  <h6>Currently working as a Data Scientist at a medical tech startup. I'm a tech enthusiast with an interest in AI, Python and Web-Dev</h6>
   
  <a href="https://github.com/karan36k" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=karan39k&label=Profile%20views&color=129e00&style=plastic" alt="karan39k" /> </p> 
