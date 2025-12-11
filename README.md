@@ -1,4 +1,4 @@
-<h4 align="center">CS undergrad || 7 Years work-ex || Data Scientist || Problem-Solver || Code-Dev </h4> 
+<h4 align="center">CS undergrad || 8 Years work-ex || Data Scientist || Problem-Solver || Code-Dev </h4> 
 
 --- 
 
