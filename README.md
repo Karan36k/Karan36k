@@ -1,4 +1,4 @@
-<h4 align="center">CS undergrad || 8 Years work-ex || Data Scientist || Problem-Solver || Code-Dev </h4> 
+<h4 align="center">CS Masters - IIT J || 8+ Years work-ex || Lead Data Scientist || LLM || NLP || Problem-Solver || Business Insights </h4> 
 
 --- 
 
@@ -15,8 +15,8 @@
 - 🔭 I’m currently working on **Customising & Training a Bidirectional Transformer to auto-interpret Medical Report** 
 - 👯 I’m looking to collaborate on **Projects based on Reinforcement Learning or Model Optimisation** 
 - 📝 I regularly write on [https://massivefile.com/](https://massivefile.com/) 
-- 💬 Ask me anything about <small>**Python Dev, DB(SQL|NO-SQL|MongoDB), Django|Flask, AWS|GCP|Heroku, ML**
-- ⚡ Connect me via - karan39k@gmail.com** 
+- 💬 Ask me anything about <small>**ML, DL, RAG, LLMs, NLP, DB(SQL|NO-SQL|AWS Sagemaker, Redshift, Lambda, S3), Google BQ, Production LLMs, RAG**
+- ⚡ Connect me via - karan36k@gmail.com** 
   </small>
 <!-- ### Blogs posts -->
  
@@ -26,7 +26,6 @@
   <a href="https://github.com/karan36k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&langs_count=7&theme=dark"/>
-  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=karan36k&theme=xcode"/>
 
    
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
