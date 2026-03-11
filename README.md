@@ -1,4 +1,4 @@
-<h4 align="center">CS Masters - IIT J || 8+ Years work-ex || Lead Data Scientist || LLM || NLP || Problem-Solver || Business Insights </h4> 
+<h4 align="center">CS Masters - IIT J || 8+ Years work-ex || Lead Data Scientist || LLM - NLP - RAG || Problem-Solver || Business Insights </h4> 
 
 --- 
 
